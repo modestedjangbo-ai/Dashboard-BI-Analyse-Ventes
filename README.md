@@ -96,6 +96,7 @@ Dashboard-BI-Analyse-Ventes/
 ├── sales_data.csv
 ├── .gitignore
 └── README.md
+```
 
 ### `app.py`
 
