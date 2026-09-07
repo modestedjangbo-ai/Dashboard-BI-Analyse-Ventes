@@ -6,6 +6,10 @@ Projet d'analyse de données visant à explorer les performances commerciales d'
 
 Le projet combine une démarche d'analyse exploratoire avec un dashboard interactif permettant d'examiner les performances selon plusieurs dimensions commerciales.
 
+## 🚀 Dashboard en ligne
+
+👉 [Accéder au Dashboard BI – Analyse des ventes](https://dashboard-bi-analyse-ventes-5aaztu4cdkhwwyebuvbaod.streamlit.app/)
+
 ## 🎯 Objectifs
 
 - Comprendre la structure et la qualité des données.
