@@ -96,3 +96,39 @@ Dashboard-BI-Analyse-Ventes/
 ├── sales_data.csv
 ├── .gitignore
 └── README.md
+
+### `app.py`
+
+Application Streamlit permettant d'explorer les performances commerciales de manière interactive à travers des filtres, des KPI, des visualisations et différentes analyses.
+
+### `projet_nettotage_explorations.ipynb`
+
+Notebook présentant la démarche d'exploration, de préparation et d'analyse des données.
+
+### `sales_data.csv`
+
+Jeu de données utilisé pour construire les analyses et le dashboard.
+
+## 🚀 Lancer le dashboard
+
+Installer les dépendances nécessaires :
+
+```bash
+pip install pandas matplotlib seaborn streamlit
+```
+
+Puis lancer l'application :
+
+```bash
+streamlit run app.py
+```
+
+Le dashboard s'ouvre ensuite automatiquement dans le navigateur.
+
+## 👤 Auteur
+
+**Modeste Adjéran DJANGBO**
+
+Étudiant en Licence d'Anglais – Option Britannique
+
+Intérêt pour la Data Analysis, la Business Intelligence et la valorisation des données.
